@@ -21,5 +21,12 @@
         "psr-4": {
             "think\\": "src/"
         }
+    },
+    "extra": {
+        "think": {
+            "config": {
+                "auth": "src/config/phptools.php"
+            }
+        }
     }
 }
