@@ -5,7 +5,7 @@
 ## 安装
 * 1）安装主框架
 ~~~php
-composer create-project topthink/think 6.0.*
+composer create-project topthink/think
 ~~~
 * 2）安装权限管理和Jump插件类库
 ~~~php
