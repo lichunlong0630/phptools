@@ -1,6 +1,6 @@
 <?php
 declare (strict_types = 1);
-namespace think\auth;
+namespace think;
 
 use think\facade\Db as Db;
 use think\facade\Config;
