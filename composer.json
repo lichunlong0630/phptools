@@ -25,7 +25,8 @@
     "extra": {
         "think": {
             "config": {
-                "auth": "src/config/phptools.php"
+                "auth": "src/config/auth.php",
+                "jump": "src/config/jump.php"
             }
         }
     }
