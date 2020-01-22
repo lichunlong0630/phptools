@@ -1,6 +1,6 @@
 <?php
 declare (strict_types = 1);
-namespace think\jump;
+namespace think;
 use think\exception\HttpResponseException;
 use think\App;
 use think\Response;
